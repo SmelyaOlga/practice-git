@@ -3,3 +3,4 @@
 ### Добавлено другим участником
 Тестовое изменение для практики git pull.
 ### Изменения из ветки feature/update-readme
+Изменения из ветки feature/edit-from-develop
